@@ -39,7 +39,27 @@ Soy Desarrollador web Full stack con experiencia en Node.js, React, Redux, SQL, 
 - Artes marciales
 - Diseño de videojuegos
 
-Email:
-Nosrey135@gmail.com
-Linkedin:
-[https://github.com/Nosrey](https://www.linkedin.com/in/yerson-rico-042097240/)
+![image](https://user-images.githubusercontent.com/106562225/203460279-a0ecfd5d-54ce-46e9-98bd-d51b8badf8ad.png)
+
+Estudie durante medio año en el Bootcamp de henry programacion como complemento para mi estudio del sector en la universidad y de manera autodidacta, allí pude mejorar mucho mi experiencia trabajando en proyectos reales y aprender a trabajar en equipo para la creacion de una aplicacion para Android en React native
+
+
+
+![image](https://user-images.githubusercontent.com/106562225/203459821-cea87c8c-3dc8-4fe0-9017-064017b72f3f.png)
+
+
+¿Cuales son mis Experiencias?
+
+
+Community ManagerCommunity Manager en Anninails
+mar. 2019 - sept. 2021 2 años 7 meses
+
+Trabaje como Community manager de una empresa distribuidora de productos para la belleza femenina al proyectar una imagen amigable y profesional a través de sus redes sociales, diseño grafico y de promociones, entre otras tecnicas
+
+
+
+Especialista en ventas minoristas en Iris bellezas para ti
+jun. 2017 - dic. 2018 1 año 7 meses
+
+
+Trabaje en el sector de ventas en una pequeña empresa atendiendo al publico durante un tiempo, aprendi a tener mas confianza en mi mismo y a comunicarme de manera mas clara y efectiva, en general mejoro mis habilidades sociales bastanteTrabaje en el sector de ventas en una pequeña empresa atendiendo al publico durante un tiempo, aprendi a tener mas confianza en mi mismo y a comunicarme de manera mas clara y efectiva, en general mejoro mis habilidades sociales bastante
