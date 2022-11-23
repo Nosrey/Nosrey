@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/106562225/203459440-c3026e3a-0fb5-4258-a5c1-d12b8071dcac.png)
+
+
 <!--
 **Nosrey/Nosrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
