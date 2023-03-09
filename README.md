@@ -22,24 +22,26 @@ Here are some ideas to get you started:
 -->
 
 **Acerca de mi...**
- Soy Desarrollador web Full stack con experiencia en Node.js, React, Redux, SQL, Express, React-Native entre otras tecnologías del sector, poseo buena lógica de resolución de problemas y un nivel de ingles B1, llevo años practicando artes marciales donde aprendí a ser enfocado y disciplinado en mis metas, además soy una persona extrovertida, curiosa y creativa con experiencia en proyectos personales como diseño de videojuegos como práctica de programación, edición de video, diseño gráfico y community manager.
+Soy un Desarrollador web Full Stack con experiencia en tecnologías como Node.js, React, Redux, SQL, Express y React-Native. Tengo una sólida lógica de resolución de problemas y un nivel avanzado de inglés (C1, certificado en https://www.efset.org/cert/9Ckd7N) que me permite comunicarme y colaborar eficazmente en equipos multilingües.
 
+Mis años de práctica en artes marciales me han enseñado a ser enfocado y disciplinado en mis metas, además de ser una persona extrovertida, curiosa y creativa. He trabajado en proyectos personales que incluyen diseño de videojuegos, edición de video, diseño gráfico y Community management.
 
-💻 **Tech Skills** 💻
- - JavaScript
- - React Native
- - Express
- - NodeJS
- - PostgreSQL
- - Sequelize
- - React
- - Redux
- - HTML
- - CSS 
+En cuanto a mis habilidades técnicas, tengo experiencia en:
 
-🔴 **Hobbies** 🔴
-- Artes marciales
-- Diseño de videojuegos
+- JavaScript
+- React Native
+- Express
+- NodeJS
+- PostgreSQL
+- Sequelize
+- React
+- Redux
+- HTML
+- CSS
+- Tailwind
+- Python
+- Django 
+- metodología Scrum.
 
 ![image](https://user-images.githubusercontent.com/106562225/203460279-a0ecfd5d-54ce-46e9-98bd-d51b8badf8ad.png)
 
